@@ -21,6 +21,9 @@
 5. [Unomanush (উনোমানুষ) (2016)](#5-unomanush-2016)
 6. [Singles & Standalone Releases](#6-singles--standalone-releases)
 
+### 💿 Mixed Albums
+7. [Din Bodol (দিন বদল) (2004)](#7-din-bodol-2004)
+
 ---
 
 <a id="1-amar-prithibi-2002"></a>
@@ -234,6 +237,15 @@ Standalone studio singles and featured compilation tracks:
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Shomantoral**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Singles/Black%20-%20Shomantoral.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Singles/Black%20-%20Shomantoral.flac?download=true)
+
+---
+
+<a id="7-din-bodol-2004"></a>
+## 7. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Din%20Bodol%20%282004%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Ashirbad (Abc)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true)
 
 ---
 
