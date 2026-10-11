@@ -27,7 +27,7 @@
 9. [Agontuk 2 (আগন্তুক ২) (2004)](#9-agontuk-2-2004)
 10. [Din Bodol (দিন বদল) (2004)](#10-din-bodol-2004)
 11. [Agontuk 3 (আগন্তুক ৩) (2005)](#11-agontuk-3-2005)
-12. [Live Now (লাইভ নাউ) (2007)](#12-live-now-2007)
+12. [Live Now (লাইভ নাও) (2007)](#12-live-now-2007)
 13. [Rock 101 (রক ১০১) (2008)](#13-rock-101-2008)
 14. [Rock 606 (রক ৬০৬) (2011)](#14-rock-606-2011)
 
@@ -296,7 +296,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="12-live-now-2007"></a>
-## 12. [Live Now (লাইভ নাউ) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Live%20Now%20%282007%29)
+## 12. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Live%20Now%20%282007%29)
 
 ### 🎵 Tracklist (One-Tap Download)
 
