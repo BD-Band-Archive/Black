@@ -250,7 +250,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="7-onushilon-2002"></a>
-## 7. [Onushilon (অনুশীলন) (2002)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Onushilon%20%282002%29)
+## 7. [Onushilon (অনুশীলন) (2002)](https://github.com/GhostDog45/Mixed-Albums#2-onushilon-2002)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -260,7 +260,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="8-agontuk-1-2003"></a>
-## 8. [Agontuk 1 (আগন্তুক ১) (2003)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Agontuk%201%20%282003%29)
+## 8. [Agontuk 1 (আগন্তুক ১) (2003)](https://github.com/GhostDog45/Mixed-Albums#4-agontuk-1-2003)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -269,7 +269,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="9-agontuk-2-2004"></a>
-## 9. [Agontuk 2 (আগন্তুক ২) (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Agontuk%202%20%282004%29)
+## 9. [Agontuk 2 (আগন্তুক ২) (2004)](https://github.com/GhostDog45/Mixed-Albums#5-agontuk-2-2004)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -278,7 +278,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="10-din-bodol-2004"></a>
-## 10. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Din%20Bodol%20%282004%29)
+## 10. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums#6-din-bodol-2004)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -287,7 +287,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="11-agontuk-3-2005"></a>
-## 11. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Agontuk%203%20%282005%29)
+## 11. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/GhostDog45/Mixed-Albums#7-agontuk-3-2005)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -296,7 +296,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="12-live-now-2007"></a>
-## 12. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Live%20Now%20%282007%29)
+## 12. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums#11-live-now-2007)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -305,7 +305,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="13-rock-101-2008"></a>
-## 13. [Rock 101 (রক ১০১) (2008)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Rock%20101%20%282008%29)
+## 13. [Rock 101 (রক ১০১) (2008)](https://github.com/GhostDog45/Mixed-Albums#15-rock-101-2008)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -314,7 +314,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="14-rock-606-2011"></a>
-## 14. [Rock 606 (রক ৬০৬) (2011)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Rock%20606%20%282011%29)
+## 14. [Rock 606 (রক ৬০৬) (2011)](https://github.com/GhostDog45/Mixed-Albums#16-rock-606-2011)
 
 ### 🎵 Tracklist (One-Tap Download)
 
