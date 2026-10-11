@@ -22,7 +22,14 @@
 6. [Singles & Standalone Releases](#6-singles--standalone-releases)
 
 ### 💿 Mixed Albums
-7. [Din Bodol (দিন বদল) (2004)](#7-din-bodol-2004)
+7. [Onushilon (অনুশীলন) (2002)](#7-onushilon-2002)
+8. [Agontuk 1 (আগন্তুক ১) (2003)](#8-agontuk-1-2003)
+9. [Agontuk 2 (আগন্তুক ২) (2004)](#9-agontuk-2-2004)
+10. [Din Bodol (দিন বদল) (2004)](#10-din-bodol-2004)
+11. [Agontuk 3 (আগন্তুক ৩) (2005)](#11-agontuk-3-2005)
+12. [Live Now (লাইভ নাউ) (2007)](#12-live-now-2007)
+13. [Rock 101 (রক ১০১) (2008)](#13-rock-101-2008)
+14. [Rock 606 (রক ৬০৬) (2011)](#14-rock-606-2011)
 
 ---
 
@@ -240,12 +247,78 @@ Standalone studio singles and featured compilation tracks:
 
 ---
 
-<a id="7-din-bodol-2004"></a>
-## 7. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Din%20Bodol%20%282004%29)
+---
+
+<a id="7-onushilon-2002"></a>
+## 7. [Onushilon (অনুশীলন) (2002)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Onushilon%20%282002%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Sriti (স্মৃতি)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/06%20-%20%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/06%20-%20%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF.flac?download=true)
+- [**Black - Obinoshshor (অবিনশ্বর)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/09%20-%20%E0%A6%85%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/09%20-%20%E0%A6%85%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0.flac?download=true)
+
+---
+
+<a id="8-agontuk-1-2003"></a>
+## 8. [Agontuk 1 (আগন্তুক ১) (2003)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Agontuk%201%20%282003%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Opolap**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%201%20%282003%29/03%20Opolap.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%201%20%282003%29/03%20Opolap.flac?download=true)
+
+---
+
+<a id="9-agontuk-2-2004"></a>
+## 9. [Agontuk 2 (আগন্তুক ২) (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Agontuk%202%20%282004%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Shokarto Upokul**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%202%20%282004%29/12%20-%20Black%20-%20Shokarto%20Upokul.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%202%20%282004%29/12%20-%20Black%20-%20Shokarto%20Upokul.flac?download=true)
+
+---
+
+<a id="10-din-bodol-2004"></a>
+## 10. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Din%20Bodol%20%282004%29)
 
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Artcell, Black & Cryptic Fate - Ashirbad (Abc)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true)
+
+---
+
+<a id="11-agontuk-3-2005"></a>
+## 11. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Agontuk%203%20%282005%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - The Evening**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/03%20The%20Evening.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/03%20The%20Evening.flac?download=true)
+
+---
+
+<a id="12-live-now-2007"></a>
+## 12. [Live Now (লাইভ নাউ) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Live%20Now%20%282007%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Ei Tumi**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/06%20Ei%20Tumi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/06%20Ei%20Tumi.flac?download=true)
+
+---
+
+<a id="13-rock-101-2008"></a>
+## 13. [Rock 101 (রক ১০১) (2008)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Rock%20101%20%282008%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Shobdo**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20101%20%282008%29/01.%20Black%20-%20Shobdo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20101%20%282008%29/01.%20Black%20-%20Shobdo.flac?download=true)
+
+---
+
+<a id="14-rock-606-2011"></a>
+## 14. [Rock 606 (রক ৬০৬) (2011)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Rock%20606%20%282011%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Fera**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20606%20%282011%29/01.%20Black%20-%20Fera.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20606%20%282011%29/01.%20Black%20-%20Fera.flac?download=true)
 
 ---
 
