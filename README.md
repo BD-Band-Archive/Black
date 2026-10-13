@@ -30,6 +30,7 @@
 12. [Live Now (লাইভ নাও) (2007)](#12-live-now-2007)
 13. [Rock 101 (রক ১০১) (2008)](#13-rock-101-2008)
 14. [Rock 606 (রক ৬০৬) (2011)](#14-rock-606-2011)
+15. [Hatiar (হাতিয়ার) (2012)](#15-hatiar-2012)
 
 ---
 
@@ -124,7 +125,7 @@ Released in 2003, *Utshober Por* ("After the Celebration") solidified Black's pl
 - **Band:** Black
 - **Release Year:** 2008
 - **Record Label:** G-Series
-- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+- **Audio Quality:** Lossless WAV (16-bit / 44.1 kHz)
 
 <p align="center">
   <img src="Abar/Album%20Cover/folder.jpg" width="300" alt="Abar Album Cover" />
@@ -135,16 +136,16 @@ Marking Black's return five years after *Utshober Por*, *Abar* ("Again") saw the
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Abar**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Abar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Abar.flac?download=true)
-- [**Abhomaan**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Abhomaan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Abhomaan.flac?download=true)
-- [**Chinho**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Chinho.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Chinho.flac?download=true)
-- [**Ei Gaan**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Ei%20Gaan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Ei%20Gaan.flac?download=true)
-- [**Keno**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Keno.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Keno.flac?download=true)
-- [**Korun**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Korun.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Korun.flac?download=true)
-- [**Manush Pakhir Gaan**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Manush%20Pakhir%20Gaan.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Manush%20Pakhir%20Gaan.flac?download=true)
-- [**Na Thaka Jibon**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Na%20Thaka%20Jibon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Na%20Thaka%20Jibon.flac?download=true)
-- [**Obosh**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Obosh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Obosh.flac?download=true)
-- [**Shorobiddho**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Shorobiddho.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/Black%20-%20Shorobiddho.flac?download=true)
+- [**01 - Manush-Pakhir Gaan**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/01%20-%20Manush-Pakhir%20Gaan.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/01%20-%20Manush-Pakhir%20Gaan.wav?download=true)
+- [**02 - Abar**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/02%20-%20Abar.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/02%20-%20Abar.wav?download=true)
+- [**03 - Abohomaan**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/03%20-%20Abohomaan.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/03%20-%20Abohomaan.wav?download=true)
+- [**04 - Obosh**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/04%20-%20Obosh.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/04%20-%20Obosh.wav?download=true)
+- [**05 - Shorobiddho**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/05%20-%20Shorobiddho.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/05%20-%20Shorobiddho.wav?download=true)
+- [**06 - Ei Gaan**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/06%20-%20Ei%20Gaan.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/06%20-%20Ei%20Gaan.wav?download=true)
+- [**07 - Na-Thaka Jibon**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/07%20-%20Na-Thaka%20Jibon.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/07%20-%20Na-Thaka%20Jibon.wav?download=true)
+- [**08 - Korun**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/08%20-%20Korun.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/08%20-%20Korun.wav?download=true)
+- [**09 - Chinho**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/09%20-%20Chinho.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/09%20-%20Chinho.wav?download=true)
+- [**10 - Keno**](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/10%20-%20Keno.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Black/master/Abar/10%20-%20Keno.wav?download=true)
 
 ### 🖼️ Album Artwork
 
@@ -319,6 +320,15 @@ Standalone studio singles and featured compilation tracks:
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Black - Fera**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20606%20%282011%29/01.%20Black%20-%20Fera.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20606%20%282011%29/01.%20Black%20-%20Fera.flac?download=true)
+
+---
+
+<a id="15-hatiar-2012"></a>
+## 15. [Hatiar (হাতিয়ার) (2012)](https://github.com/GhostDog45/Mixed-Albums#17-hatiar-2012)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Chheleti**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hatiar/01%20-%20Cheleti.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hatiar/01%20-%20Cheleti.wav?download=true)
 
 ---
 
