@@ -26,11 +26,18 @@
 8. [Agontuk 1 (আগন্তুক ১) (2003)](#8-agontuk-1-2003)
 9. [Agontuk 2 (আগন্তুক ২) (2004)](#9-agontuk-2-2004)
 10. [Din Bodol (দিন বদল) (2004)](#10-din-bodol-2004)
-11. [Agontuk 3 (আগন্তুক ৩) (2005)](#11-agontuk-3-2005)
-12. [Live Now (লাইভ নাও) (2007)](#12-live-now-2007)
-13. [Rock 101 (রক ১০১) (2008)](#13-rock-101-2008)
-14. [Rock 606 (রক ৬০৬) (2011)](#14-rock-606-2011)
-15. [Hatiar (হাতিয়ার) (2012)](#15-hatiar-2012)
+11. [Shopnochura (স্বপ্নচূড়া) (2004)](#11-shopnochura-2004)
+12. [Agontuk 3 (আগন্তুক ৩) (2005)](#12-agontuk-3-2005)
+13. [Shopnochura 2 (স্বপ্নচূড়া ২) (2005)](#13-shopnochura-2-2005)
+14. [Live Now (লাইভ নাও) (2007)](#14-live-now-2007)
+15. [Shopnochura 3 (স্বপ্নচূড়া ৩) (2007)](#15-shopnochura-3-2007)
+16. [Rock 101 (রক ১০১) (2008)](#16-rock-101-2008)
+17. [Rock 202 (রক ২০২) (2009)](#17-rock-202-2009)
+18. [Rock 505 (রক ৫০৫) (2010)](#18-rock-505-2010)
+19. [Rock 606 (রক ৬০৬) (2011)](#19-rock-606-2011)
+20. [Hatiar (হাতিয়ার) (2012)](#20-hatiar-2012)
+21. [Shopnochura 4 (স্বপ্নচূড়া ৪) (2014)](#21-shopnochura-4-2014)
+22. [Rock 909 (রক ৯০৯) (2015)](#22-rock-909-2015)
 
 ---
 
@@ -251,71 +258,116 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="7-onushilon-2002"></a>
-## 7. [Onushilon (অনুশীলন) (2002)](https://github.com/GhostDog45/Mixed-Albums#2-onushilon-2002)
+## 7. [Onushilon (অনুশীলন) (2002)](https://github.com/GhostDog45/Mixed-Albums#onushilon-2002)
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Black - Sriti (স্মৃতি)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/06%20-%20%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/06%20-%20%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF.flac?download=true)
-- [**Black - Obinoshshor (অবিনশ্বর)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/09%20-%20%E0%A6%85%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/09%20-%20%E0%A6%85%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0.flac?download=true)
+- [**Black - Sokol Biday**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/08%20-%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Onushilon%20%282002%29/08%20-%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC.flac?download=true)
 
 ---
 
 <a id="8-agontuk-1-2003"></a>
-## 8. [Agontuk 1 (আগন্তুক ১) (2003)](https://github.com/GhostDog45/Mixed-Albums#4-agontuk-1-2003)
+## 8. [Agontuk 1 (আগন্তুক ১) (2003)](https://github.com/GhostDog45/Mixed-Albums#agontuk-1-2003)
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Black - Opolap**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%201%20%282003%29/03%20Opolap.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%201%20%282003%29/03%20Opolap.flac?download=true)
+- [**Black - Ostitto**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%201%20%282003%29/04%20Ostitto.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%201%20%282003%29/04%20Ostitto.flac?download=true)
 
 ---
 
 <a id="9-agontuk-2-2004"></a>
-## 9. [Agontuk 2 (আগন্তুক ২) (2004)](https://github.com/GhostDog45/Mixed-Albums#5-agontuk-2-2004)
+## 9. [Agontuk 2 (আগন্তুক ২) (2004)](https://github.com/GhostDog45/Mixed-Albums#agontuk-2-2004)
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Black - Shokarto Upokul**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%202%20%282004%29/12%20-%20Black%20-%20Shokarto%20Upokul.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%202%20%282004%29/12%20-%20Black%20-%20Shokarto%20Upokul.flac?download=true)
+- [**Black - Shabdhon**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%202%20%282004%29/08%20-%20Black%20-%20Shabdhon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%202%20%282004%29/08%20-%20Black%20-%20Shabdhon.flac?download=true)
 
 ---
 
 <a id="10-din-bodol-2004"></a>
-## 10. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums#6-din-bodol-2004)
+## 10. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums#din-bodol-2004)
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Artcell, Black & Cryptic Fate - Ashirbad (Abc)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true)
+- [**Black - Ashirbad (Abc)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true)
+- [**Black - 35**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/06.%2035.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/06.%2035.flac?download=true)
 
 ---
 
-<a id="11-agontuk-3-2005"></a>
-## 11. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/GhostDog45/Mixed-Albums#7-agontuk-3-2005)
+<a id="11-shopnochura-2004"></a>
+## 11. [Shopnochura (স্বপ্নচূড়া) (2004)](https://github.com/GhostDog45/Mixed-Albums#shopnochura-2004)
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Black - The Evening**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/03%20The%20Evening.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/03%20The%20Evening.flac?download=true)
+- [**Black - Dak**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shopnochura%20%282004%29/03%20Dak.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shopnochura%20%282004%29/03%20Dak.flac?download=true)
 
 ---
 
-<a id="12-live-now-2007"></a>
-## 12. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums#11-live-now-2007)
+<a id="12-agontuk-3-2005"></a>
+## 12. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/GhostDog45/Mixed-Albums#agontuk-3-2005)
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Black - Ei Tumi**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/06%20Ei%20Tumi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/06%20Ei%20Tumi.flac?download=true)
+- [**Black - A Poth Shesh Kothae**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/01%20A%20Poth%20Shesh%20Kothae.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/01%20A%20Poth%20Shesh%20Kothae.flac?download=true)
 
 ---
 
-<a id="13-rock-101-2008"></a>
-## 13. [Rock 101 (রক ১০১) (2008)](https://github.com/GhostDog45/Mixed-Albums#15-rock-101-2008)
+<a id="13-shopnochura-2-2005"></a>
+## 13. [Shopnochura 2 (স্বপ্নচূড়া ২) (2005)](https://github.com/GhostDog45/Mixed-Albums#shopnochura-2-2005)
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Black - Shobdo**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20101%20%282008%29/01.%20Black%20-%20Shobdo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20101%20%282008%29/01.%20Black%20-%20Shobdo.flac?download=true)
+- [**Black - Ondho**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shopnochura%20%282005%29/01%20-%20Ondho.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shopnochura%20%282005%29/01%20-%20Ondho.flac?download=true)
 
 ---
 
-<a id="14-rock-606-2011"></a>
-## 14. [Rock 606 (রক ৬০৬) (2011)](https://github.com/GhostDog45/Mixed-Albums#16-rock-606-2011)
+<a id="14-live-now-2007"></a>
+## 14. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums#live-now-2007)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Shonkhonil**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/05%20Shonkhonil.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/05%20Shonkhonil.flac?download=true)
+
+---
+
+<a id="15-shopnochura-3-2007"></a>
+## 15. [Shopnochura 3 (স্বপ্নচূড়া ৩) (2007)](https://github.com/GhostDog45/Mixed-Albums#shopnochura-3-2007)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - E Karonei (এ কারণেই)**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shopnochura%20%282007%29/01%20-%20%E0%A6%8F%20%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87%E0%A6%87.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shopnochura%20%282007%29/01%20-%20%E0%A6%8F%20%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87%E0%A6%87.flac?download=true)
+
+---
+
+<a id="16-rock-101-2008"></a>
+## 16. [Rock 101 (রক ১০১) (2008)](https://github.com/GhostDog45/Mixed-Albums#rock-101-2008)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Manush**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20101%20%282008%29/01%20Manush.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20101%20%282008%29/01%20Manush.flac?download=true)
+
+---
+
+<a id="17-rock-202-2009"></a>
+## 17. [Rock 202 (রক ২০২) (2009)](https://github.com/GhostDog45/Mixed-Albums#rock-202-2009)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Tumi Ki Sara Debe?**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20202%20%282009%29/01.%20Tumi%20Ki%20Sara%20Debe%20-.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20202%20%282009%29/01.%20Tumi%20Ki%20Sara%20Debe%20-.flac?download=true)
+
+---
+
+<a id="18-rock-505-2010"></a>
+## 18. [Rock 505 (রক ৫০৫) (2010)](https://github.com/GhostDog45/Mixed-Albums#rock-505-2010)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Bertho Shawpno**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20505%20%282010%29/01.%20Bertho%20Shawpno%20-.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20505%20%282010%29/01.%20Bertho%20Shawpno%20-.flac?download=true)
+
+---
+
+<a id="19-rock-606-2011"></a>
+## 19. [Rock 606 (রক ৬০৬) (2011)](https://github.com/GhostDog45/Mixed-Albums#rock-606-2011)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -323,12 +375,30 @@ Standalone studio singles and featured compilation tracks:
 
 ---
 
-<a id="15-hatiar-2012"></a>
-## 15. [Hatiar (হাতিয়ার) (2012)](https://github.com/GhostDog45/Mixed-Albums#17-hatiar-2012)
+<a id="20-hatiar-2012"></a>
+## 20. [Hatiar (হাতিয়ার) (2012)](https://github.com/GhostDog45/Mixed-Albums#hatiar-2012)
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Black - Chheleti**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hatiar/01%20-%20Cheleti.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hatiar/01%20-%20Cheleti.wav?download=true)
+- [**Black - Cheleti**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hatiar%20%282012%29/01%20-%20Cheleti.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hatiar%20%282012%29/01%20-%20Cheleti.wav?download=true)
+
+---
+
+<a id="21-shopnochura-4-2014"></a>
+## 21. [Shopnochura 4 (স্বপ্নচূড়া ৪) (2014)](https://github.com/GhostDog45/Mixed-Albums#shopnochura-4-2014)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Kar Jonne**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shopnochura%204%20%282014%29/Kar%20Jonnoe%20-%20.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Shopnochura%204%20%282014%29/Kar%20Jonnoe%20-%20.flac?download=true)
+
+---
+
+<a id="22-rock-909-2015"></a>
+## 22. [Rock 909 (রক ৯০৯) (2015)](https://github.com/GhostDog45/Mixed-Albums#rock-909-2015)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Omor**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20909%20%282015%29/1.%20Omor%20-%20Black.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20909%20%282015%29/1.%20Omor%20-%20Black.flac?download=true)
 
 ---
 
