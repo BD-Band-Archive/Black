@@ -413,7 +413,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="23-charpotro-2001"></a>
-## 23. [Charpotro (2001)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Charpotro%20%282001%29)
+## 23. [Charpotro (2001)](https://github.com/GhostDog45/Mixed-Albums#charpotro-2001)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -422,7 +422,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="24-lokayot-2004"></a>
-## 24. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Lokayot%20%282004%29)
+## 24. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums#lokayot-2004)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -431,7 +431,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="25-projonmo-2002"></a>
-## 25. [Projonmo (2002)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Projonmo%20%282002%29)
+## 25. [Projonmo (2002)](https://github.com/GhostDog45/Mixed-Albums#projonmo-2002)
 
 ### 🎵 Tracklist (One-Tap Download)
 
