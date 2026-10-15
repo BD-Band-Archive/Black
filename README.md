@@ -38,6 +38,9 @@
 20. [Hatiar (হাতিয়ার) (2012)](#20-hatiar-2012)
 21. [Shopnochura 4 (স্বপ্নচূড়া ৪) (2014)](#21-shopnochura-4-2014)
 22. [Rock 909 (রক ৯০৯) (2015)](#22-rock-909-2015)
+23. [Charpotro (2001)](#23-charpotro-2001)
+24. [Lokayot (2004)](#24-lokayot-2004)
+25. [Projonmo (2002)](#25-projonmo-2002)
 
 ---
 
@@ -406,6 +409,33 @@ Standalone studio singles and featured compilation tracks:
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Black - Omor**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20909%20%282015%29/1.%20Omor%20-%20Black.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Rock%20909%20%282015%29/1.%20Omor%20-%20Black.flac?download=true)
+
+---
+
+<a id="23-charpotro-2001"></a>
+## 23. [Charpotro (2001)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Charpotro%20%282001%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Chena Dukkho**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/08.%20Chena%20Dukkho.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Charpotro%20%282001%29/08.%20Chena%20Dukkho.flac?download=true)
+
+---
+
+<a id="24-lokayot-2004"></a>
+## 24. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Lokayot%20%282004%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Shotto**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/02.%20Shotto.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/02.%20Shotto.flac?download=true)
+
+---
+
+<a id="25-projonmo-2002"></a>
+## 25. [Projonmo (2002)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Projonmo%20%282002%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - Blues & Rod/Black**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/06%20Black%20-%20Blues%20%26%20Rod-Black.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Projonmo%20%282002%29/06%20Black%20-%20Blues%20%26%20Rod-Black.flac?download=true)
 
 ---
 
