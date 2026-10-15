@@ -81,7 +81,6 @@ Released in 2002 under G-Series, *Amar Prithibi* ("My World") is Black's explosi
 | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BBooklet%5D.jpg" width="300" alt="2. Booklet & Lyrics" /><br><sub><b>2. Booklet & Lyrics</b></sub> |
 | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BInset-Front%5D.jpg" width="300" alt="3. Inset (Front)" /><br><sub><b>3. Inset (Front)</b></sub> | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
 | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BInset-Back%5D.jpg" width="300" alt="5. Back Inset" /><br><sub><b>5. Back Inset</b></sub> | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BBack%5D.jpg" width="300" alt="6. Back Cover" /><br><sub><b>6. Back Cover</b></sub> |
-| <img src="Amar%20Prithibi/Album%20Cover/folder.jpg" width="300" alt="7. folder" /><br><sub><b>7. folder</b></sub> |  |
 
 ---
 
@@ -165,7 +164,7 @@ Marking Black's return five years after *Utshober Por*, *Abar* ("Again") saw the
 | <img src="Abar/Album%20Cover/Abar%20%5BInset-1%5D.jpg" width="300" alt="3. Inset (Part 1)" /><br><sub><b>3. Inset (Part 1)</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BInset-2%5D.jpg" width="300" alt="4. Inset (Part 2)" /><br><sub><b>4. Inset (Part 2)</b></sub> |
 | <img src="Abar/Album%20Cover/Abar%20%5BInset-3%5D.jpg" width="300" alt="5. Inset (Part 3)" /><br><sub><b>5. Inset (Part 3)</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BInset-4%5D.jpg" width="300" alt="6. Inset (Part 4)" /><br><sub><b>6. Inset (Part 4)</b></sub> |
 | <img src="Abar/Album%20Cover/Abar%20%5BInset-5%5D.jpg" width="300" alt="7. Inset (Part 5)" /><br><sub><b>7. Inset (Part 5)</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BCD%5D.jpg" width="300" alt="8. Compact Disc (CD)" /><br><sub><b>8. Compact Disc (CD)</b></sub> |
-| <img src="Abar/Album%20Cover/Abar%20%5BBack%5D.jpg" width="300" alt="9. Back Cover" /><br><sub><b>9. Back Cover</b></sub> | <img src="Abar/Album%20Cover/folder.jpg" width="300" alt="10. folder" /><br><sub><b>10. folder</b></sub> |
+| <img src="Abar/Album%20Cover/Abar%20%5BBack%5D.jpg" width="300" alt="9. Back Cover" /><br><sub><b>9. Back Cover</b></sub> |  |
 
 ---
 
@@ -263,7 +262,7 @@ Standalone studio singles and featured compilation tracks:
 
 | | |
 | :---: | :---: |
-| <img src="Singles/Album%20Cover/Black%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="2. folder" /><br><sub><b>2. folder</b></sub> |
+| <img src="Singles/Album%20Cover/Black%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
