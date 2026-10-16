@@ -83,6 +83,12 @@ Released in 2002 under G-Series, *Amar Prithibi* ("My World") is Black's explosi
 | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BInset-Front%5D.jpg" width="300" alt="3. Inset (Front)" /><br><sub><b>3. Inset (Front)</b></sub> | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
 | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BInset-Back%5D.jpg" width="300" alt="5. Back Inset" /><br><sub><b>5. Back Inset</b></sub> | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BBack%5D.jpg" width="300" alt="6. Back Cover" /><br><sub><b>6. Back Cover</b></sub> |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Exact Audio Copy (EAC Secure Rig)
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="2-utshober-por-2003"></a>
@@ -127,6 +133,12 @@ Released in 2003, *Utshober Por* ("After the Celebration") solidified Black's pl
 | <img src="Utshober%20Por/Album%20Cover/Utshober%20Por%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Utshober%20Por/Album%20Cover/Utshober%20Por%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 | <img src="Utshober%20Por/Album%20Cover/Utoshober%20Por%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> | <img src="Utshober%20Por/Album%20Cover/folder_2.jpg" width="300" alt="8. folder 2" /><br><sub><b>8. folder 2</b></sub> |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Bangla Flac Preservation Community
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="3-abar-2008"></a>
@@ -166,6 +178,12 @@ Marking Black's return five years after *Utshober Por*, *Abar* ("Again") saw the
 | <img src="Abar/Album%20Cover/Abar%20%5BInset-3%5D.jpg" width="300" alt="5. Inset (Part 3)" /><br><sub><b>5. Inset (Part 3)</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BInset-4%5D.jpg" width="300" alt="6. Inset (Part 4)" /><br><sub><b>6. Inset (Part 4)</b></sub> |
 | <img src="Abar/Album%20Cover/Abar%20%5BInset-5%5D.jpg" width="300" alt="7. Inset (Part 5)" /><br><sub><b>7. Inset (Part 5)</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BCD%5D.jpg" width="300" alt="8. Compact Disc (CD)" /><br><sub><b>8. Compact Disc (CD)</b></sub> |
 | <img src="Abar/Album%20Cover/Abar%20%5BBack%5D.jpg" width="300" alt="9. Back Cover" /><br><sub><b>9. Back Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** @deanrocks
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
@@ -207,6 +225,12 @@ The band's fourth studio release, the self-titled *Black* (2011), was a bold cel
 | <img src="Black/Album%20Cover/Black%20%5BInset%20-%204%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Black/Album%20Cover/Black%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 | <img src="Black/Album%20Cover/Black%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** @deanrocks
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="5-unomanush-2016"></a>
@@ -240,6 +264,12 @@ The band's fourth studio release, the self-titled *Black* (2011), was a bold cel
 | :---: | :---: |
 | <img src="Unomanush/Album%20Cover/Unomanush%20-%20Artwork.jpg" width="300" alt="1. Gatefold Artwork" /><br><sub><b>1. Gatefold Artwork</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Bangla Flac Preservation Community
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="6-singles--standalone-releases"></a>
@@ -264,6 +294,12 @@ Standalone studio singles and featured compilation tracks:
 | | |
 | :---: | :---: |
 | <img src="Singles/Album%20Cover/Black%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** @music_ripper_bot / Bangla Flac Community
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
