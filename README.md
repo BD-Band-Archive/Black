@@ -422,7 +422,7 @@ Standalone studio singles and featured compilation tracks:
 ## 21. [Rock 505 (রক ৫০৫) (2010)](https://github.com/BD-Band-Archive/Mixed-Albums#rock-505-2010)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Black - Bertho Shawpno**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20505%20%282010%29/01.%20Bertho%20Shawpno%20-.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20505%20%282010%29/01.%20Bertho%20Shawpno%20-.flac?download=true)
+- [**Black - Bertho Shawpno**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20505%20%282010%29/01.%20Bertho%20Shawpno%20-%20.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20505%20%282010%29/01.%20Bertho%20Shawpno%20-%20.flac?download=true)
 
 ---
 
