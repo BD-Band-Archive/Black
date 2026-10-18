@@ -1,0 +1,27 @@
+Album Name: Abar
+Album Type: Band
+Release Year: 2008
+Genre: Rock
+Total Songs: 10
+Track List:
+01. Manush-Pakhir Gaan
+02. Abar
+03. Abohomaan
+04. Obosh
+05. Shorobiddho
+06. Ei Gaan
+07. Na-Thaka Jibon
+08. Korun
+09. Chinho
+10. Keno
+
+Media Info:
+Audio:
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : 1
+Bit rate mode                            : Constant
+Bit rate                                 : 1 411.2 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits

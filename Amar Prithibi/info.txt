@@ -1,0 +1,31 @@
+Album Name: Amar Prithibi
+Album Type: Band
+Release Year: 2002
+Genre: Rock
+Total Songs: 12
+Track List:
+01. Amra
+02. Abhiman
+03. Amar Prithibi
+04. Kobor
+05. Bikhkhoto
+06. Prarthonad
+07. Akhono
+08. Kothay
+09. Manush
+10. Andhokarer Pashey
+11. Miththa
+12. Dukhkher Rong [Crap]
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 869 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.3.2 (2017-01-01)

@@ -1,0 +1,29 @@
+Album Name: Black
+Album Type: Band
+Release Year: 2011
+Genre: Rock
+Total Songs: 11
+Track List:
+01. Haat Barao
+02. Paper Radio Tv
+03. Amar Prithibi
+04. Nilgiri
+05. Attokendrik
+06. Mumursho Rupkotha
+07. Jiboner Ba Pashe
+08. Purano Shei Diner Kotha
+09. Uposhonghar
+10. Ajo
+11. Ekjon
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 419 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
