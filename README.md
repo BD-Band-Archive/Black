@@ -276,6 +276,10 @@ The band's fourth studio release, the self-titled *Black* (2011), was a bold cel
 <a id="6-singles--standalone-releases"></a>
 ## 6. Singles & Standalone Releases
 
+<p align="center">
+  <img src="Singles/Album%20Cover/Black%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="Black Singles Cover" />
+</p>
+
 - **Band:** Black
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
@@ -294,7 +298,7 @@ Standalone studio singles and featured compilation tracks:
 
 | | |
 | :---: | :---: |
-| <img src="Singles/Album%20Cover/Black%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+| <img src="Singles/Album%20Cover/Black%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/Black%20-%20Shomantoral.jpg" width="300" alt="2. Black - Shomantoral" /><br><sub><b>2. Black - Shomantoral</b></sub> |
 
 
 ### 💿 CD Ripper & Preservation Credit
