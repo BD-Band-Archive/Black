@@ -30,17 +30,17 @@
 12. [Din Bodol (দিন বদল) (2004)](#12-din-bodol-দন-বদল-2004)
 13. [Lokayot (2004)](#13-lokayot-2004)
 14. [Shopnochura (স্বপ্নচূড়া) (2004)](#14-shopnochura-সবপনচড-2004)
-15. [Shopnochura 2 (স্বপ্নচূড়া ২) (2005)](#16-shopnochura-2-সবপনচড-২-2005)
-16. [Live Now (লাইভ নাও) (2007)](#17-live-now-লইভ-নও-2007)
-17. [Shopnochura 3 (স্বপ্নচূড়া ৩) (2007)](#18-shopnochura-3-সবপনচড-৩-2007)
-18. [Rock 101 (রক ১০১) (2008)](#19-rock-101-রক-১০১-2008)
-19. [Rock 202 (রক ২০২) (2009)](#20-rock-202-রক-২০২-2009)
-20. [Rock 505 (রক ৫০৫) (2010)](#21-rock-505-রক-৫০৫-2010)
-21. [Rock 606 (রক ৬০৬) (2011)](#22-rock-606-রক-৬০৬-2011)
-22. [Hatiar (হাতিয়ার) (2012)](#23-hatiar-হতয়র-2012)
-23. [Shopnochura 4 (স্বপ্নচূড়া ৪) (2014)](#24-shopnochura-4-সবপনচড-৪-2014)
-24. [Rock 909 (রক ৯০৯) (2015)](#25-rock-909-রক-৯০৯-2015)
-25. [Agontuk 3 (আগন্তুক ৩) (2005)](#25-agontuk-3-2005)
+15. [Shopnochura 2 (স্বপ্নচূড়া ২) (2005)](#15-shopnochura-2-সবপনচড-২-2005)
+16. [Agontuk 3 (আগন্তুক ৩) (2005)](#16-agontuk-3-আগনতক-৩-2005)
+17. [Live Now (লাইভ নাও) (2007)](#17-live-now-লইভ-নও-2007)
+18. [Shopnochura 3 (স্বপ্নচূড়া ৩) (2007)](#18-shopnochura-3-সবপনচড-৩-2007)
+19. [Rock 101 (রক ১০১) (2008)](#19-rock-101-রক-১০১-2008)
+20. [Rock 202 (রক ২০২) (2009)](#20-rock-202-রক-২০২-2009)
+21. [Rock 505 (রক ৫০৫) (2010)](#21-rock-505-রক-৫০৫-2010)
+22. [Rock 606 (রক ৬০৬) (2011)](#22-rock-606-রক-৬০৬-2011)
+23. [Hatiar (হাতিয়ার) (2012)](#23-hatiar-হতয়র-2012)
+24. [Shopnochura 4 (স্বপ্নচূড়া ৪) (2014)](#24-shopnochura-4-সবপনচড-৪-2014)
+25. [Rock 909 (রক ৯০৯) (2015)](#25-rock-909-রক-৯০৯-2015)
 
 ---
 
@@ -369,7 +369,7 @@ Standalone studio singles and featured compilation tracks:
 
 ---
 
-<a id="16-shopnochura-2-সবপনচড-২-2005"></a><a id="13-shopnochura-2-2005"></a>
+<a id="16-shopnochura-2-সবপনচড-২-2005"></a><a id="15-shopnochura-2-সবপনচড-২-2005"></a><a id="16-shopnochura-2-সবপনচড-২-2005"></a><a id="13-shopnochura-2-2005"></a>
 ## 15. [Shopnochura 2 (স্বপ্নচূড়া ২) (2005)](https://github.com/BD-Band-Archive/Mixed-Albums#shopnochura-2-2005)
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -377,8 +377,16 @@ Standalone studio singles and featured compilation tracks:
 
 ---
 
+<a id="16-agontuk-3-আগনতক-৩-2005"></a><a id="16-agontuk-3-2005"></a><a id="agontuk-3-2005"></a><a id="7-agontuk-3-2005"></a>
+## 16. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/BD-Band-Archive/Mixed-Albums#agontuk-3-2005)
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - The Evening**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%203%20%282005%29/03%20The%20Evening.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%203%20%282005%29/03%20The%20Evening.flac?download=true)
+
+---
+
 <a id="17-live-now-লইভ-নও-2007"></a><a id="14-live-now-2007"></a>
-## 16. [Live Now (লাইভ নাও) (2007)](https://github.com/BD-Band-Archive/Mixed-Albums#live-now-2007)
+## 17. [Live Now (লাইভ নাও) (2007)](https://github.com/BD-Band-Archive/Mixed-Albums#live-now-2007)
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Black - Ei Tumi**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Live%20Now%20%282007%29/06%20Ei%20Tumi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Live%20Now%20%282007%29/06%20Ei%20Tumi.flac?download=true)
@@ -386,7 +394,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="18-shopnochura-3-সবপনচড-৩-2007"></a><a id="15-shopnochura-3-2007"></a>
-## 17. [Shopnochura 3 (স্বপ্নচূড়া ৩) (2007)](https://github.com/BD-Band-Archive/Mixed-Albums#shopnochura-3-2007)
+## 18. [Shopnochura 3 (স্বপ্নচূড়া ৩) (2007)](https://github.com/BD-Band-Archive/Mixed-Albums#shopnochura-3-2007)
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Black - E Karonei (এ কারণেই)**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Shopnochura%203%20%282007%29/01%20-%20%E0%A6%8F%20%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87%E0%A6%87.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Shopnochura%203%20%282007%29/01%20-%20%E0%A6%8F%20%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%87%E0%A6%87.flac?download=true)
@@ -394,7 +402,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="19-rock-101-রক-১০১-2008"></a><a id="16-rock-101-2008"></a>
-## 18. [Rock 101 (রক ১০১) (2008)](https://github.com/BD-Band-Archive/Mixed-Albums#rock-101-2008)
+## 19. [Rock 101 (রক ১০১) (2008)](https://github.com/BD-Band-Archive/Mixed-Albums#rock-101-2008)
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Black - Shobdo**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20101%20%282008%29/01.%20Black%20-%20Shobdo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20101%20%282008%29/01.%20Black%20-%20Shobdo.flac?download=true)
@@ -402,7 +410,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="20-rock-202-রক-২০২-2009"></a><a id="17-rock-202-2009"></a>
-## 19. [Rock 202 (রক ২০২) (2009)](https://github.com/BD-Band-Archive/Mixed-Albums#rock-202-2009)
+## 20. [Rock 202 (রক ২০২) (2009)](https://github.com/BD-Band-Archive/Mixed-Albums#rock-202-2009)
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Black - Tumi Ki Sara Debe?**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20202%20%282009%29/01.%20Tumi%20Ki%20Sara%20Debe%20-.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20202%20%282009%29/01.%20Tumi%20Ki%20Sara%20Debe%20-.flac?download=true)
@@ -410,7 +418,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="21-rock-505-রক-৫০৫-2010"></a><a id="18-rock-505-2010"></a>
-## 20. [Rock 505 (রক ৫০৫) (2010)](https://github.com/BD-Band-Archive/Mixed-Albums#rock-505-2010)
+## 21. [Rock 505 (রক ৫০৫) (2010)](https://github.com/BD-Band-Archive/Mixed-Albums#rock-505-2010)
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Black - Bertho Shawpno**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20505%20%282010%29/01.%20Bertho%20Shawpno%20-%20.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20505%20%282010%29/01.%20Bertho%20Shawpno%20-%20.flac?download=true)
@@ -418,7 +426,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="22-rock-606-রক-৬০৬-2011"></a><a id="19-rock-606-2011"></a>
-## 21. [Rock 606 (রক ৬০৬) (2011)](https://github.com/BD-Band-Archive/Mixed-Albums#rock-606-2011)
+## 22. [Rock 606 (রক ৬০৬) (2011)](https://github.com/BD-Band-Archive/Mixed-Albums#rock-606-2011)
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Black - Fera**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20606%20%282011%29/01.%20Black%20-%20Fera.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20606%20%282011%29/01.%20Black%20-%20Fera.flac?download=true)
@@ -426,7 +434,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="23-hatiar-হতয়র-2012"></a><a id="20-hatiar-2012"></a>
-## 22. [Hatiar (হাতিয়ার) (2012)](https://github.com/BD-Band-Archive/Mixed-Albums#hatiar-2012)
+## 23. [Hatiar (হাতিয়ার) (2012)](https://github.com/BD-Band-Archive/Mixed-Albums#hatiar-2012)
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Black - Cheleti**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Hatiar%20%282012%29/01%20-%20Cheleti.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Hatiar%20%282012%29/01%20-%20Cheleti.wav?download=true)
@@ -434,7 +442,7 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="24-shopnochura-4-সবপনচড-৪-2014"></a><a id="21-shopnochura-4-2014"></a>
-## 23. [Shopnochura 4 (স্বপ্নচূড়া ৪) (2014)](https://github.com/BD-Band-Archive/Mixed-Albums#shopnochura-4-2014)
+## 24. [Shopnochura 4 (স্বপ্নচূড়া ৪) (2014)](https://github.com/BD-Band-Archive/Mixed-Albums#shopnochura-4-2014)
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Black - Kar Jonne**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Shopnochura%204%20%282014%29/Kar%20Jonnoe%20-%20.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Shopnochura%204%20%282014%29/Kar%20Jonnoe%20-%20.flac?download=true)
@@ -442,19 +450,10 @@ Standalone studio singles and featured compilation tracks:
 ---
 
 <a id="25-rock-909-রক-৯০৯-2015"></a><a id="22-rock-909-2015"></a>
-## 24. [Rock 909 (রক ৯০৯) (2015)](https://github.com/BD-Band-Archive/Mixed-Albums#rock-909-2015)
+## 25. [Rock 909 (রক ৯০৯) (2015)](https://github.com/BD-Band-Archive/Mixed-Albums#rock-909-2015)
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Black - Omor**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20909%20%282015%29/1.%20Omor%20-%20Black.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20909%20%282015%29/1.%20Omor%20-%20Black.flac?download=true)
-
----
-
-<a id="25-agontuk-3-2005"></a>
-## 25. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/BD-Band-Archive/Mixed-Albums#7-agontuk-3-2005)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Black - The Evening**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%203%20%282005%29/03%20The%20Evening.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%203%20%282005%29/03%20The%20Evening.flac?download=true)
 
 ---
 
