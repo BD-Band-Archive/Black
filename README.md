@@ -40,7 +40,7 @@
 22. [Hatiar (হাতিয়ার) (2012)](#23-hatiar-হতয়র-2012)
 23. [Shopnochura 4 (স্বপ্নচূড়া ৪) (2014)](#24-shopnochura-4-সবপনচড-৪-2014)
 24. [Rock 909 (রক ৯০৯) (2015)](#25-rock-909-রক-৯০৯-2015)
-
+25. [Agontuk 3 (আগন্তুক ৩) (2005)](#25-agontuk-3-2005)
 
 ---
 
@@ -81,7 +81,7 @@ Released in 2002 under G-Series, *Amar Prithibi* ("My World") is Black's explosi
 | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BBooklet%5D.jpg" width="300" alt="2. Booklet & Lyrics" /><br><sub><b>2. Booklet & Lyrics</b></sub> |
 | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BInset-Front%5D.jpg" width="300" alt="3. Inset (Front)" /><br><sub><b>3. Inset (Front)</b></sub> | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
 | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BInset-Back%5D.jpg" width="300" alt="5. Back Inset" /><br><sub><b>5. Back Inset</b></sub> | <img src="Amar%20Prithibi/Album%20Cover/Amar%20Prithibi%20%5BBack%5D.jpg" width="300" alt="6. Back Cover" /><br><sub><b>6. Back Cover</b></sub> |
-
+| <img src="Amar%20Prithibi/Album%20Cover/folder.jpg" width="300" alt="7. folder" /><br><sub><b>7. folder</b></sub> |  |
 
 ### 💿 CD Ripper & Preservation Credit
 
@@ -133,7 +133,6 @@ Released in 2003, *Utshober Por* ("After the Celebration") solidified Black's pl
 | <img src="Utshober%20Por/Album%20Cover/Utshober%20Por%20%5BInset-4%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Utshober%20Por/Album%20Cover/Utshober%20Por%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 | <img src="Utshober%20Por/Album%20Cover/Utoshober%20Por%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> | <img src="Utshober%20Por/Album%20Cover/folder_2.jpg" width="300" alt="8. folder 2" /><br><sub><b>8. folder 2</b></sub> |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Bangla Flac Preservation Community
@@ -177,8 +176,7 @@ Marking Black's return five years after *Utshober Por*, *Abar* ("Again") saw the
 | <img src="Abar/Album%20Cover/Abar%20%5BInset-1%5D.jpg" width="300" alt="3. Inset (Part 1)" /><br><sub><b>3. Inset (Part 1)</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BInset-2%5D.jpg" width="300" alt="4. Inset (Part 2)" /><br><sub><b>4. Inset (Part 2)</b></sub> |
 | <img src="Abar/Album%20Cover/Abar%20%5BInset-3%5D.jpg" width="300" alt="5. Inset (Part 3)" /><br><sub><b>5. Inset (Part 3)</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BInset-4%5D.jpg" width="300" alt="6. Inset (Part 4)" /><br><sub><b>6. Inset (Part 4)</b></sub> |
 | <img src="Abar/Album%20Cover/Abar%20%5BInset-5%5D.jpg" width="300" alt="7. Inset (Part 5)" /><br><sub><b>7. Inset (Part 5)</b></sub> | <img src="Abar/Album%20Cover/Abar%20%5BCD%5D.jpg" width="300" alt="8. Compact Disc (CD)" /><br><sub><b>8. Compact Disc (CD)</b></sub> |
-| <img src="Abar/Album%20Cover/Abar%20%5BBack%5D.jpg" width="300" alt="9. Back Cover" /><br><sub><b>9. Back Cover</b></sub> |  |
-
+| <img src="Abar/Album%20Cover/Abar%20%5BBack%5D.jpg" width="300" alt="9. Back Cover" /><br><sub><b>9. Back Cover</b></sub> | <img src="Abar/Album%20Cover/folder.jpg" width="300" alt="10. folder" /><br><sub><b>10. folder</b></sub> |
 
 ### 💿 CD Ripper & Preservation Credit
 
@@ -225,7 +223,6 @@ The band's fourth studio release, the self-titled *Black* (2011), was a bold cel
 | <img src="Black/Album%20Cover/Black%20%5BInset%20-%204%5D.jpg" width="300" alt="5. Inset (Part 4)" /><br><sub><b>5. Inset (Part 4)</b></sub> | <img src="Black/Album%20Cover/Black%20%5BCD%5D.jpg" width="300" alt="6. Compact Disc (CD)" /><br><sub><b>6. Compact Disc (CD)</b></sub> |
 | <img src="Black/Album%20Cover/Black%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** @deanrocks
@@ -264,7 +261,6 @@ The band's fourth studio release, the self-titled *Black* (2011), was a bold cel
 | :---: | :---: |
 | <img src="Unomanush/Album%20Cover/Unomanush%20-%20Artwork.jpg" width="300" alt="1. Gatefold Artwork" /><br><sub><b>1. Gatefold Artwork</b></sub> |  |
 
-
 ### 💿 CD Ripper & Preservation Credit
 
 - **Preserved & Ripped by:** Bangla Flac Preservation Community
@@ -298,7 +294,6 @@ Standalone studio singles and featured compilation tracks:
 | | |
 | :---: | :---: |
 | <img src="Singles/Album%20Cover/Black%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/Black%20-%20Shomantoral.jpg" width="300" alt="2. Black - Shomantoral" /><br><sub><b>2. Black - Shomantoral</b></sub> |
-
 
 ### 💿 CD Ripper & Preservation Credit
 
@@ -451,6 +446,15 @@ Standalone studio singles and featured compilation tracks:
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Black - Omor**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20909%20%282015%29/1.%20Omor%20-%20Black.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20909%20%282015%29/1.%20Omor%20-%20Black.flac?download=true)
+
+---
+
+<a id="25-agontuk-3-2005"></a>
+## 25. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/BD-Band-Archive/Mixed-Albums#7-agontuk-3-2005)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Black - The Evening**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%203%20%282005%29/03%20The%20Evening.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%203%20%282005%29/03%20The%20Evening.flac?download=true)
 
 ---
 
