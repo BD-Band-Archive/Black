@@ -322,7 +322,8 @@ Standalone studio singles and featured compilation tracks:
 ## 8. [Onushilon (অনুশীলন) (2002)](https://github.com/BD-Band-Archive/Mixed-Albums#onushilon-2002)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Black - Sokol Biday**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Onushilon%20%282002%29/08%20-%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Onushilon%20%282002%29/08%20-%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A6%BE%E0%A6%AF%E0%A6%BC.flac?download=true)
+- [**Black - Sriti (স্মৃতি)**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Onushilon%20%282002%29/06%20-%20%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Onushilon%20%282002%29/06%20-%20%E0%A6%B8%E0%A7%8D%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A6%BF.flac?download=true)
+- [**Black - Obinoshshor (অবিনশ্বর)**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Onushilon%20%282002%29/09%20-%20%E0%A6%85%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Onushilon%20%282002%29/09%20-%20%E0%A6%85%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0.flac?download=true)
 
 ---
 
@@ -338,7 +339,7 @@ Standalone studio singles and featured compilation tracks:
 ## 10. [Agontuk 1 (আগন্তুক ১) (2003)](https://github.com/BD-Band-Archive/Mixed-Albums#agontuk-1-2003)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Black - Ostitto**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%201%20%282003%29/04%20Ostitto.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%201%20%282003%29/04%20Ostitto.flac?download=true)
+- [**Black - Opolap**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%201%20%282003%29/03%20Opolap.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%201%20%282003%29/03%20Opolap.flac?download=true)
 
 ---
 
@@ -346,7 +347,7 @@ Standalone studio singles and featured compilation tracks:
 ## 11. [Agontuk 2 (আগন্তুক ২) (2004)](https://github.com/BD-Band-Archive/Mixed-Albums#agontuk-2-2004)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Black - Shabdhon**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%202%20%282004%29/08%20-%20Black%20-%20Shabdhon.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%202%20%282004%29/08%20-%20Black%20-%20Shabdhon.flac?download=true)
+- [**Black - Shokarto Upokul**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%202%20%282004%29/12%20-%20Black%20-%20Shokarto%20Upokul.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Agontuk%202%20%282004%29/12%20-%20Black%20-%20Shokarto%20Upokul.flac?download=true)
 
 ---
 
@@ -354,8 +355,7 @@ Standalone studio singles and featured compilation tracks:
 ## 12. [Din Bodol (দিন বদল) (2004)](https://github.com/BD-Band-Archive/Mixed-Albums#din-bodol-2004)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Black - Ashirbad (Abc)**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true)
-- [**Black - 35**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Din%20Bodol%20%282004%29/06.%2035.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Din%20Bodol%20%282004%29/06.%2035.flac?download=true)
+- [**Artcell, Black & Cryptic Fate - Ashirbad (Abc)**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Din%20Bodol%20%282004%29/01.%20Ashirbad%20%28Abc%29.flac?download=true)
 
 ---
 
@@ -395,7 +395,7 @@ Standalone studio singles and featured compilation tracks:
 ## 17. [Live Now (লাইভ নাও) (2007)](https://github.com/BD-Band-Archive/Mixed-Albums#live-now-2007)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Black - Shonkhonil**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Live%20Now%20%282007%29/05%20Shonkhonil.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Live%20Now%20%282007%29/05%20Shonkhonil.flac?download=true)
+- [**Black - Ei Tumi**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Live%20Now%20%282007%29/06%20Ei%20Tumi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Live%20Now%20%282007%29/06%20Ei%20Tumi.flac?download=true)
 
 ---
 
@@ -411,7 +411,7 @@ Standalone studio singles and featured compilation tracks:
 ## 19. [Rock 101 (রক ১০১) (2008)](https://github.com/BD-Band-Archive/Mixed-Albums#rock-101-2008)
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**Black - Manush**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20101%20%282008%29/01%20Manush.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20101%20%282008%29/01%20Manush.flac?download=true)
+- [**Black - Shobdo**](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20101%20%282008%29/01.%20Black%20-%20Shobdo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/BD-Band-Archive/Mixed-Albums/master/Rock%20101%20%282008%29/01.%20Black%20-%20Shobdo.flac?download=true)
 
 ---
 
